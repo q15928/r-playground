@@ -1,0 +1,87 @@
+---
+title: "Trees planted in San Francisco"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: scroll
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(data.table)
+library(plotly)
+library(lubridate)
+library(DT)
+library(stringr)
+
+# data source from san_francisco_trees dataset in bigquery-public-data
+
+file_path <- "./data/trees-in-san-francisco.csv"
+df <- fread(file_path)
+df$month <- ymd_hms(df$plant_month)
+
+trees_by_care_per_month <- df[, list(total_trees=sum(total_trees)), 
+                              by=c("plant_month", "care_taker")]
+trees_by_care_per_month$month <- paste(
+  month(trees_by_care_per_month$plant_month, label = TRUE),
+  year(trees_by_care_per_month$plant_month))
+setorder(trees_by_care_per_month, plant_month)
+
+trees_by_site_per_month <- df[, list(total_trees=sum(total_trees)), 
+                              by=c("plant_month", "site_info")]
+trees_by_site_per_month$month <- paste(
+  month(trees_by_site_per_month$plant_month, label = TRUE),
+  year(trees_by_site_per_month$plant_month))
+setorder(trees_by_site_per_month, plant_month)
+trees_by_site_per_month <- trees_by_site_per_month[, c("month", "site_info",
+                                                       "total_trees")]
+
+
+sum_species <- df[, list(total=sum(total_trees)), by=(species)]
+setorder(sum_species, -total, na.last = TRUE)
+top10_species <- sum_species[1:10]
+top10_species$species <- str_match(top10_species$species, "(.+) ::")[, 2]
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Number of trees planted each month by care taker
+
+```{r barchart}
+x_form <- list(categoryorder = "array",
+               categoryarray = trees_by_care_per_month$month,
+               title="Month")
+p <- plot_ly(trees_by_care_per_month,
+             x = ~month,
+             y = ~total_trees, 
+             name = ~ care_taker, color = ~care_taker, type = "bar") %>%
+  layout(barmode = "stack", 
+         xaxis=x_form, 
+         legend=list(orientation="h"))
+p
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Percent distribution of tree species
+
+```{r pie}
+p <- plot_ly(top10_species, labels = ~species, values = ~total, 
+             type = 'pie', sort=FALSE, direction="clockwise",
+             textinfo="percent", hoverinfo='text',
+             insidetextfont=list(color="#FFFFFF"),
+             text = ~paste(species, total),
+             showlegend = FALSE)
+
+p
+```
+
+### Number of trees planted with site info
+
+```{r datatable}
+datatable(trees_by_site_per_month)
+```
+

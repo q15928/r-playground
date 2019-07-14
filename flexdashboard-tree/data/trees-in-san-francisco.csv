@@ -1,0 +1,425 @@
+plant_month,total_trees,species,care_taker,address,site_info
+2018-08-01 00:00:00 UTC,1,::,Private,3990 Washington St,Side Yard : Yard
+2018-08-01 00:00:00 UTC,1,::,Private,3990 Washington St,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,2,::,Private,2518 Buchanan St,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,5,Tree(s) ::,Private,210 Church St,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,1,Tree(s) ::,Private,1501 Sacramento St,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,3,Tree(s) ::,Private,242 Church St,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,1,Ulmus parvifolia :: Chinese Elm,Private,30 Valley St,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,1,Ginkgo biloba :: Maidenhair Tree,Private,539 36th Ave,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,1,Prunus cerasifera :: Cherry Plum,Private,1450 17th St,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,1,Afrocarpus gracilior :: Fern Pine,Private,358 22nd Ave,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,1,Jacaranda mimosifolia :: Jacaranda,Private,517 Bartlett St,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,3,Liriodendron tulipifera :: Tulip Tree,Private,435 Sacramento St,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,8 Springfield Dr,Sidewalk: Property side : Yard
+2018-08-01 00:00:00 UTC,2,Pittosporum undulatum :: Victorian Box,Private,221 Jackson St,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,1,Pittosporum undulatum :: Victorian Box,Private,844 Duncan St,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,1,Pittosporum undulatum :: Victorian Box,Private,647 Masonic Ave,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,2,Corymbia ficifolia :: Red Flowering Gum,Private,477 Hickory St,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,2187 21st Ave,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,3934 Washington St,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,3,Leptospermum laevigatum :: Australian Tea Tree,Private,3512 16th St,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,2,Platanus x hispanica :: Sycamore: London Plane,Private,2190X Market St,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,1,Ginkgo biloba 'Princeton Sentry' :: Princeton Sentry Maidenhair,Private,21 Rosemont Pl,Sidewalk: Curb side : Cutout
+2018-08-01 00:00:00 UTC,3,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',Private,281 Geary St,Sidewalk: Curb side : Cutout
+2019-06-01 00:00:00 UTC,2,::,Private,32 Clifford Ter,Sidewalk: Property side : Cutout
+2019-06-01 00:00:00 UTC,1,Tree(s) ::,Private,2 Santa Paula Ave,Sidewalk: Curb side : Yard
+2019-06-01 00:00:00 UTC,1,Tree(s) ::,Private,320 Santa Clara Ave,Sidewalk: Curb side : Yard
+2019-06-01 00:00:00 UTC,1,Tree(s) ::,Private,135 Saint Francis Blvd,Sidewalk: Curb side : Yard
+2019-06-01 00:00:00 UTC,1,Tree(s) ::,Private,45 Yerba Buena Ave,Sidewalk: Curb side : Yard
+2019-06-01 00:00:00 UTC,1,Tree(s) ::,Private,65 San Benito Way,Sidewalk: Curb side : Yard
+2019-06-01 00:00:00 UTC,1,Tree(s) ::,Private,354 Santa Clara Ave,Sidewalk: Curb side : Yard
+2019-06-01 00:00:00 UTC,2,Magnolia spp :: Magnolia,Private,222 Eucalyptus Dr,Sidewalk: Property side : Yard
+2019-06-01 00:00:00 UTC,1,Prunus cerasifera :: Cherry Plum,Private,2221 Webster St,Sidewalk: Curb side : Cutout
+2019-06-01 00:00:00 UTC,1,Hymenosporum flavum :: Sweetshade,Private,1000 Sutter St,Sidewalk: Curb side : Cutout
+2019-06-01 00:00:00 UTC,1,Cordyline australis :: Dracena Palm,Private,1920 Jefferson St,Sidewalk: Curb side : Cutout
+2019-06-01 00:00:00 UTC,1,Lagunaria patersonii :: Primrose Tree,Private,1633 Noriega St,Sidewalk: Curb side : Cutout
+2019-06-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,2450 Irving St,Sidewalk: Curb side : Cutout
+2019-06-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,2230 Irving St,Sidewalk: Curb side : Cutout
+2019-06-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,2539 Irving St,Sidewalk: Curb side : Cutout
+2019-06-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,563 Alvarado St,Sidewalk: Curb side : Cutout
+2019-06-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,2511 Irving St,Sidewalk: Curb side : Cutout
+2019-06-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,2315 Irving St,Sidewalk: Curb side : Cutout
+2019-06-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,1838 Irving St,Sidewalk: Curb side : Cutout
+2019-06-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,2333 Irving St,Sidewalk: Curb side : Cutout
+2019-06-01 00:00:00 UTC,1,Pittosporum undulatum :: Victorian Box,Private,2272 Bay St,Sidewalk: Curb side : Cutout
+2019-06-01 00:00:00 UTC,1,Magnolia grandiflora 'Samuel Sommer' :: Samuel Sommer Magnolia,Private,1270 Church St,Sidewalk: Curb side : Cutout
+2019-02-01 00:00:00 UTC,2,Tree(s) ::,Private,65 Buena Vista Ave East,Sidewalk: Curb side : Cutout
+2019-02-01 00:00:00 UTC,1,Tree(s) ::,Private,232 Stratford Dr,Sidewalk: Property side : Cutout
+2019-02-01 00:00:00 UTC,1,Tree(s) ::,Private,3941 Sacramento St,Sidewalk: Curb side : Cutout
+2019-02-01 00:00:00 UTC,6,Acer rubrum :: Red Maple,SFUSD,3401X 16th St,Side Yard : Yard
+2019-02-01 00:00:00 UTC,5,Olea europaea :: Olive Tree,Private,1490x Green St,Sidewalk: Curb side : Cutout
+2019-02-01 00:00:00 UTC,1,Ficus rubiginosa :: Port Jackson Fig,Private,1805 FILLMORE ST,Sidewalk: Curb side : Cutout
+2019-02-01 00:00:00 UTC,1,Prunus x yedoensis :: Yoshino Cherry,Private,526 Utah St,Sidewalk: Curb side : Cutout
+2019-02-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,238 Eureka St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Tree(s) ::,Private,119 Serrano Dr,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Tree(s) ::,Private,3636 21st St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,2,Tree(s) ::,Private,3312 Broderick St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Tree(s) ::,Private,408 Vicksburg St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Tree(s) ::,Private,32 Higuera Ave,Median : Cutout
+2019-04-01 00:00:00 UTC,1,Tree(s) ::,Private,125 Santa Paula Ave,Sidewalk: Curb side : Yard
+2019-04-01 00:00:00 UTC,1,Tree(s) ::,Private,4200 23rd St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Tree(s) ::,Private,1760 Alabama St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Tree(s) ::,Private,2957 22nd St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,2,Acer rubrum :: Red Maple,Private,145 Fremont St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,2,Olea europaea :: Olive Tree,Private,120 Miguel St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Olea europaea :: Olive Tree,Private,347 Chattanooga St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Ulmus parvifolia :: Chinese Elm,Private,2997 Harrison St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Ginkgo biloba :: Maidenhair Tree,Private,460 Noe St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,3,Podocarpus gracilor :: Fern Pine,Private,3098 26th St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Acer buergeranum :: Trident Maple,Private,145 Fremont St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Pyrus kawakamii :: Evergreen Pear,Private,101X Whipple Ave,Sidewalk: Curb side : Yard
+2019-04-01 00:00:00 UTC,1,Jacaranda mimosifolia :: Jacaranda,Private,2719 23rd St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,3,Ligustrum lucidum :: Glossy Privet,Private,395 Bartlett St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,3,Ligustrum lucidum :: Glossy Privet,Private,3440 25th St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,3,Tilia cordata :: Littleleaf Linden,Private,100 Beale St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Cordyline australis :: Dracena Palm,Private,1847 43rd Ave,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Cordyline australis :: Dracena Palm,Private,1843 43rd Ave,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,2,Cordyline australis :: Dracena Palm,Private,1747 43rd Ave,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Agonis flexuosa :: Peppermint Willow,Private,1751 43rd Ave,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Hakea suaveolens :: Sweet Hakea Tree,Private,2562 44th Ave,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Hakea suaveolens :: Sweet Hakea Tree,Private,1360 45th Ave,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Hakea suaveolens :: Sweet Hakea Tree,Private,1364 45th Ave,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Hakea suaveolens :: Sweet Hakea Tree,Private,1356 45th Ave,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Banksia integrifolia :: Coast Banksia,Private,1525 44th Ave,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Banksia integrifolia :: Coast Banksia,Private,2211 44th Ave,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Lagunaria patersonii :: Primrose Tree,Private,2422 41st Ave,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Lagunaria patersonii :: Primrose Tree,Private,2400 43rd Ave,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,7,Lophostemon confertus :: Brisbane Box,Private,301 Mission St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Lophostemon confertus :: Brisbane Box,Private,1641 Lombard St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Melaleuca nesophila :: Pink Melaleuca,Private,2434 41st Ave,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Pittosporum undulatum :: Victorian Box,Private,1825 Mission St,Front Yard : Yard
+2019-04-01 00:00:00 UTC,2,Pittosporum undulatum :: Victorian Box,Private,215X Raccoon Dr,Sidewalk: Property side : Yard
+2019-04-01 00:00:00 UTC,3,Albizia julibrissin :: Mimosa Silk Tree,Private,90 Bartlett St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Albizia julibrissin :: Mimosa Silk Tree,Private,25 Bartlett St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Albizia julibrissin :: Mimosa Silk Tree,Private,1 Bartlett St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Albizia julibrissin :: Mimosa Silk Tree,Private,19 Bartlett St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,3,Albizia julibrissin :: Mimosa Silk Tree,Private,41 Bartlett St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Magnolia grandiflora :: Southern Magnolia,Private,120 Miguel St,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,2422 41st Ave,Sidewalk: Curb side : Cutout
+2019-04-01 00:00:00 UTC,1,Liquidambar styraciflua :: American Sweet Gum,Private,200x Gough St,Sidewalk: Property side : Cutout
+2019-04-01 00:00:00 UTC,1,Metrosideros excelsa :: New Zealand Xmas Tree,Private,2131 43rd Ave,Sidewalk: Curb side : Cutout
+2019-07-01 00:00:00 UTC,1,::,Private,1355 27th Ave,Sidewalk: Property side : Cutout
+2019-07-01 00:00:00 UTC,2,::,Private,480 Warren Dr,Sidewalk: Curb side : Cutout
+2019-07-01 00:00:00 UTC,1,Pyrus kawakamii :: Evergreen Pear,Private,1805 FILLMORE ST,Sidewalk: Curb side : Cutout
+2019-07-01 00:00:00 UTC,2,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,Private,477 Eucalyptus Dr,Sidewalk: Property side : Cutout
+2018-07-01 00:00:00 UTC,1,Tree(s) ::,Private,1520 Monterey Blvd,Sidewalk: Curb side : Yard
+2018-07-01 00:00:00 UTC,1,Tree(s) ::,Private,1441 Portola Dr,Sidewalk: Curb side : Yard
+2018-07-01 00:00:00 UTC,1,Tree(s) ::,Private,115 Yerba Buena Ave,Sidewalk: Curb side : Yard
+2018-07-01 00:00:00 UTC,1,Tree(s) ::,Private,531 Saint Francis Blvd,Sidewalk: Curb side : Yard
+2018-07-01 00:00:00 UTC,1,Tree(s) ::,Private,44 Yerba Buena Ave,Sidewalk: Curb side : Yard
+2018-07-01 00:00:00 UTC,1,Tree(s) ::,Private,20 Santa Clara Ave,Sidewalk: Curb side : Yard
+2018-07-01 00:00:00 UTC,1,Tristania conferta ::,Private,6190X 03rd St,Sidewalk: Curb side : Cutout
+2018-07-01 00:00:00 UTC,1,Quercus suber :: Cork Oak,Private,580 Douglass St,Sidewalk: Curb side : Cutout
+2018-07-01 00:00:00 UTC,1,Olea europaea :: Olive Tree,Private,580 Douglass St,Sidewalk: Curb side : Cutout
+2018-07-01 00:00:00 UTC,1,Ulmus parvifolia :: Chinese Elm,Private,1146 Florida St,Sidewalk: Curb side : Cutout
+2018-07-01 00:00:00 UTC,1,Ginkgo biloba :: Maidenhair Tree,Private,1559 Church St,Sidewalk: Curb side : Cutout
+2018-07-01 00:00:00 UTC,4,Jacaranda mimosifolia :: Jacaranda,Private,450 Toland St,Sidewalk: Curb side : Cutout
+2018-07-01 00:00:00 UTC,1,Eriobotrya deflexa :: Bronze Loquat,Private,368 Princeton St,Sidewalk: Curb side : Cutout
+2018-07-01 00:00:00 UTC,1,Pittosporum crassifolium :: Karo Tree,Private,1478 47th Ave,Sidewalk: Curb side : Yard
+2018-07-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,DPW,2227 San Jose Ave,Sidewalk: Curb side : Cutout
+2018-07-01 00:00:00 UTC,2,Tristaniopsis laurina :: Swamp Myrtle,Private,4388 17th St,Sidewalk: Curb side : Cutout
+2018-07-01 00:00:00 UTC,1,Geijera parviflora :: Australian Willow,Private,532 Wawona St,Front Yard : Yard
+2018-07-01 00:00:00 UTC,1,Geijera parviflora :: Australian Willow,Private,532 Wawona St,Sidewalk: Curb side : Cutout
+2018-07-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,799 Joost Ave,Sidewalk: Curb side : Cutout
+2018-07-01 00:00:00 UTC,1,Koelreuteria bipinnata :: Chinese Flame Tree,Private,267 Laurel St,Sidewalk: Curb side : Cutout
+2018-07-01 00:00:00 UTC,4,Olea europaea 'Fruitless' :: Fruitless Olive,Private,2461 Sacramento St,Sidewalk: Property side : Cutout
+2018-07-01 00:00:00 UTC,1,Metrosideros excelsa :: New Zealand Xmas Tree,Private,127 Central Ave,Sidewalk: Curb side : Cutout
+2018-07-01 00:00:00 UTC,1,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,Private,1241 Shrader St,Sidewalk: Curb side : Cutout
+2018-07-01 00:00:00 UTC,1,Prunus cerasifera 'Thundercloud' :: Purple-Leaf Plum 'Thundercloud',Private,4225 23rd St,Sidewalk: Curb side : Cutout
+2018-07-01 00:00:00 UTC,1,Lyonothamnus floribundus subsp. asplenifolius :: Santa Cruz Ironwood,Private,1495 Monterey Blvd,Sidewalk: Curb side : Yard
+2019-05-01 00:00:00 UTC,1,::,Private,682 12th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,::,Private,682 12th Ave,Sidewalk: Property side : Cutout
+2019-05-01 00:00:00 UTC,1,Tree(s) ::,Private,98 Santa Clara Ave,Sidewalk: Curb side : Yard
+2019-05-01 00:00:00 UTC,1,Tree(s) ::,Private,2201 Golden Gate Ave,Sidewalk: Property side : Yard
+2019-05-01 00:00:00 UTC,1,Tree(s) ::,Private,1898 08th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Tree(s) ::,Private,70 San Leandro Way,Sidewalk: Curb side : Yard
+2019-05-01 00:00:00 UTC,1,Tree(s) ::,Private,2449 Golden Gate Ave,Sidewalk: Property side : Cutout
+2019-05-01 00:00:00 UTC,1,Tree(s) ::,Private,139 San Leandro Way,Sidewalk: Curb side : Yard
+2019-05-01 00:00:00 UTC,1,Tree(s) ::,Private,1641 Grove St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Tree(s) ::,Private,2401X Golden Gate Ave,Sidewalk: Property side : Yard
+2019-05-01 00:00:00 UTC,2,Tree(s) ::,Private,290 Santa Clara Ave,Sidewalk: Curb side : Yard
+2019-05-01 00:00:00 UTC,1,Tree(s) ::,Private,101 Santa Clara Ave,Sidewalk: Curb side : Yard
+2019-05-01 00:00:00 UTC,2,Tree(s) ::,Private,100 Terrace Dr,Sidewalk: Curb side : Yard
+2019-05-01 00:00:00 UTC,4,Maytenus boaria :: Mayten,Private,900 GOLDEN GATE AVE,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,3,Ficus nitida :: Laurel Fig,Private,1250 Columbus Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,2,Cedrus deodara :: Deodar Cedar,Private,567 Mississippi St,Sidewalk: Property side : Yard
+2019-05-01 00:00:00 UTC,1,Ginkgo biloba :: Maidenhair Tree,Private,1565 Jackson St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Ginkgo biloba :: Maidenhair Tree,Private,839 Broderick St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Podocarpus gracilor :: Fern Pine,Private,1887 34th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Cordyline australis :: Dracena Palm,Private,783 Wisconsin St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Cordyline australis :: Dracena Palm,Private,1929 48th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Cordyline australis :: Dracena Palm,Private,1478 48th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Cordyline australis :: Dracena Palm,Private,1639 47th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Eriobotrya deflexa :: Bronze Loquat,Private,1052 Rhode Island St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Hakea suaveolens :: Sweet Hakea Tree,Private,1826 48th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Hakea suaveolens :: Sweet Hakea Tree,Private,2582 46th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Hakea suaveolens :: Sweet Hakea Tree,Private,2079 45th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Banksia integrifolia :: Coast Banksia,Private,2130 45th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Banksia integrifolia :: Coast Banksia,Private,2039 47th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Lophostemon confertus :: Brisbane Box,DPW,450 Jones St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,2,Prunus serrulata :: Ornamental Cherry,Private,1700 Buchanan St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,1909 Judah St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,2,Acacia melanoxylon :: Blackwood Acacia,Private,3434 Baker St,Sidewalk: Curb side : Yard
+2019-05-01 00:00:00 UTC,1,Pittosporum undulatum :: Victorian Box,Private,1223 Hollister Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,2,Trachycarpus fortunei :: Windmill Palm,Private,4331 Kirkham St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Corymbia ficifolia :: Red Flowering Gum,Private,1288 Columbus Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,4,Pinus canariensis :: Canary Island Pine,DPW,500X Clarendon Ave,Median : Cutout
+2019-05-01 00:00:00 UTC,1,Magnolia grandiflora :: Southern Magnolia,Private,1498 Mendell St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,1574 46th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,121 Peabody St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,1367 45th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,2671 46th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Crataegus phaenopyrum :: Washington Hawthorn,Private,477 Elizabeth St,Sidewalk: Property side : Cutout
+2019-05-01 00:00:00 UTC,1,Metrosideros excelsa :: New Zealand Xmas Tree,Private,4341 Kirkham St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Metrosideros excelsa :: New Zealand Xmas Tree,Private,1474 48th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Metrosideros excelsa :: New Zealand Xmas Tree,Private,1801 Gough St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Metrosideros excelsa :: New Zealand Xmas Tree,Private,2278 45th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Metrosideros excelsa :: New Zealand Xmas Tree,Private,2111 46th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Metrosideros excelsa :: New Zealand Xmas Tree,Private,2414 47th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Metrosideros excelsa :: New Zealand Xmas Tree,Private,2122 48th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Metrosideros excelsa :: New Zealand Xmas Tree,Private,2282 45th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,2,Leptospermum laevigatum :: Australian Tea Tree,Private,701 04th Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,DPW,11 Woodland Ave,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,2,Ceanothus 'Ray Hartman' :: California Lilac 'Ray Hartman',Private,727 Delano Ave,Sidewalk: Property side : Yard
+2019-05-01 00:00:00 UTC,1,Tristaniopsis laurina 'Elegant' :: Small-leaf Tristania 'Elegant',Private,436 Minna St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,2,Tristaniopsis laurina 'Elegant' :: Small-leaf Tristania 'Elegant',Private,441 Minna St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',Private,2601 Jones St,Sidewalk: Curb side : Cutout
+2019-05-01 00:00:00 UTC,1,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',Private,941 Mission St,Sidewalk: Property side : Yard
+2019-05-01 00:00:00 UTC,3,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',DPW,941 Mission St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Tree(s) ::,Private,101 Noe St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Tree(s) ::,Private,355 Serrano Dr,Sidewalk: Property side : Yard
+2019-01-01 00:00:00 UTC,1,Tree(s) ::,Private,2929 Scott St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,3,Tree(s) ::,Private,199x Townsend St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Olea europaea :: Olive Tree,Private,215 Kenwood Way,Sidewalk: Property side : Yard
+2019-01-01 00:00:00 UTC,3,Juniperus chinensis :: Juniper,Private,317X Dorado Ter,Side Yard : Yard
+2019-01-01 00:00:00 UTC,4,Ginkgo biloba :: Maidenhair Tree,Private,369 18th Ave,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,2,Ginkgo biloba :: Maidenhair Tree,Private,1443-1443X Francisco St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Acer buergeranum :: Trident Maple,Private,988 Howard St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Melaleuca quinquenervia :: Cajeput,Private,2821 37th Ave,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Cordyline australis :: Dracena Palm,Private,2958 Sloat Blvd,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Cordyline australis :: Dracena Palm,Private,1259 40th Ave,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Eriobotrya deflexa :: Bronze Loquat,Private,315 Mount Vernon Ave,Front Yard : Yard
+2019-01-01 00:00:00 UTC,1,Lagunaria patersonii :: Primrose Tree,Private,5001X Anza St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Lagunaria patersonii :: Primrose Tree,Private,1266 40th Ave,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Lagunaria patersonii :: Primrose Tree,Private,1611 37th Ave,Sidewalk: Curb side : Yard
+2019-01-01 00:00:00 UTC,1,Lagunaria patersonii :: Primrose Tree,Private,1679 37th Ave,Sidewalk: Curb side : Yard
+2019-01-01 00:00:00 UTC,1,Lophostemon confertus :: Brisbane Box,Private,835 South Van Ness Ave,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,3318 Scott St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,255 Seneca Ave,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,338 Princeton St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,628 O'Farrell St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Pittosporum undulatum :: Victorian Box,Private,751 25th Ave,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Pittosporum undulatum :: Victorian Box,Private,751 25th Ave,:
+2019-01-01 00:00:00 UTC,1,Magnolia grandiflora :: Southern Magnolia,Private,118 21st Ave,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,1571 37th Ave,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,1920 41st Ave,: Cutout
+2019-01-01 00:00:00 UTC,1,Metrosideros excelsa :: New Zealand Xmas Tree,Private,1862 39th Ave,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Ulmus parvifolia 'Drake' :: Drake's Chinese Elm,Private,307 Page St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Ulmus parvifolia 'Drake' :: Drake's Chinese Elm,Private,321 Page St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Prunus serrulata 'Mt. Fuji' :: Mt. Fuji Cherry Tree,Private,1540 17th Ave,Sidewalk: Property side : Cutout
+2019-01-01 00:00:00 UTC,3,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,Private,425 Buchanan St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,Private,883 35th Ave,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,Private,26 Lily St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,2,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,Private,2715 Lake St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Magnolia grandiflora 'Samuel Sommer' :: Samuel Sommer Magnolia,SFUSD,450 Church St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Leptospermum scoparium 'Snow White' :: New Zealand White Tea Tree,Private,91 Canyon Dr,Front Yard : Yard
+2019-01-01 00:00:00 UTC,1,Tristaniopsis laurina 'Elegant' :: Small-leaf Tristania 'Elegant',Private,423 Faxon Ave,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Pyrus calleryana 'Chanticleer' :: Ornamental Pear Tree 'Chanticleer',Private,26 Lily St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Prunus cerasifera 'Krauter vesuvius' :: Purple Leaf Plum Krauter Vesuvius,DPW,62 Colby St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,2,Leptospermum scoparium  'Helene Strybing' :: Helene Strybing New Zealand Tea Tree,Private,2751X Cabrillo St,Sidewalk: Curb side : Cutout
+2019-01-01 00:00:00 UTC,1,Leptospermum scoparium  'Helene Strybing' :: Helene Strybing New Zealand Tea Tree,Private,5001X Anza St,Sidewalk: Curb side : Cutout
+2019-03-01 00:00:00 UTC,1,Acer rubrum :: Red Maple,Private,2813 24th St,Side Yard : Cutout
+2019-03-01 00:00:00 UTC,2,Maytenus boaria :: Mayten,DPW,807 Franklin St,Sidewalk: Curb side : Cutout
+2019-03-01 00:00:00 UTC,1,Cornus florida :: Eastern Dogwood,Private,330 Twin Peaks Blvd,Sidewalk: Property side : Yard
+2019-03-01 00:00:00 UTC,2,Cornus florida :: Eastern Dogwood,Private,330 Twin Peaks Blvd,Side Yard : Cutout
+2019-03-01 00:00:00 UTC,4,Cornus florida :: Eastern Dogwood,Private,330 Twin Peaks Blvd,Back Yard : Yard
+2019-03-01 00:00:00 UTC,1,Ficus retusa nitida :: Banyan Fig,Private,250 Francisco St,Sidewalk: Curb side : Cutout
+2019-03-01 00:00:00 UTC,1,Lagunaria patersonii :: Primrose Tree,Private,301x Howth St,Sidewalk: Curb side : Cutout
+2019-03-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,DPW,66 Cleary Ct,Sidewalk: Curb side : Cutout
+2019-03-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,125 Farragut Ave,Sidewalk: Curb side : Cutout
+2019-03-01 00:00:00 UTC,1,Acacia melanoxylon :: Blackwood Acacia,Private,407 Castenada Ave,Sidewalk: Curb side : Yard
+2019-03-01 00:00:00 UTC,1,Pittosporum undulatum :: Victorian Box,Private,807 Franklin St,Sidewalk: Curb side : Cutout
+2019-03-01 00:00:00 UTC,3,Pittosporum undulatum :: Victorian Box,Private,330 Twin Peaks Blvd,Front Yard : Yard
+2019-03-01 00:00:00 UTC,1,Magnolia grandiflora :: Southern Magnolia,DPW,1625 Lake St,Sidewalk: Curb side : Cutout
+2019-03-01 00:00:00 UTC,1,Magnolia grandiflora 'Russet' :: Russet Magnolia,Private,1129 Naples St,Sidewalk: Curb side : Cutout
+2019-03-01 00:00:00 UTC,4,Acacia baileyana 'Purpurea' :: Purple-leaf Acacia,Private,330 Twin Peaks Blvd,Sidewalk: Curb side : Cutout
+2019-03-01 00:00:00 UTC,1,Ginkgo biloba 'Autumn Gold' :: Ginkgo: Autumn Gold,Private,301x Howth St,Sidewalk: Curb side : Cutout
+2019-03-01 00:00:00 UTC,1,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,Private,2000 Washington St,Sidewalk: Curb side : Cutout
+2019-03-01 00:00:00 UTC,3,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,Private,2160 Gough St,Sidewalk: Curb side : Cutout
+2019-03-01 00:00:00 UTC,1,Ceanothus 'Ray Hartman' :: California Lilac 'Ray Hartman',Private,330 Twin Peaks Blvd,Side Yard : Cutout
+2018-11-01 00:00:00 UTC,2,Tree(s) ::,Private,1421 Diamond St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Tree(s) ::,Private,347 San Benito Way,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,2,Ginkgo biloba :: Maidenhair Tree,Private,3861 24th St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,2,Acer buergeranum :: Trident Maple,Private,1 Ford St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Acer buergeranum :: Trident Maple,Private,3200 Washington St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Hymenosporum flavum :: Sweetshade,Private,315 Sanchez St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Pyrus kawakamii :: Evergreen Pear,Private,1405 Greenwich St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Melaleuca quinquenervia :: Cajeput,Private,1477 Green St,Sidewalk: Property side : Yard
+2018-11-01 00:00:00 UTC,1,Melaleuca quinquenervia :: Cajeput,Private,1477 Green St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Eriobotrya deflexa :: Bronze Loquat,Private,252 Farallones St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,2,Eriobotrya deflexa :: Bronze Loquat,Private,2302 Cabrillo St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,3,Eriobotrya deflexa :: Bronze Loquat,Private,1487 Greenwich St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Agonis flexuosa :: Peppermint Willow,Private,2221 15th St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Lophostemon confertus :: Brisbane Box,Private,1835 Hyde St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Lophostemon confertus :: Brisbane Box,Private,2200 Hyde St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Lophostemon confertus :: Brisbane Box,Private,2013 Hyde St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,1674 Washington St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,1306 Broadway,:
+2018-11-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,1306 Broadway,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Pittosporum undulatum :: Victorian Box,Private,1714 Stockton St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Callistemon citrinus :: Lemon Bottlebrush,Private,2214 36th Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,4,Magnolia grandiflora :: Southern Magnolia,Private,2825 Lake St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,2,Magnolia grandiflora :: Southern Magnolia,Private,520 El Camino Del Mar,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Magnolia grandiflora :: Southern Magnolia,Private,927 Brazil Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,DPW,66 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,3,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,80 Terra Vista Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,83 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,15 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,2375 Ofarrell St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,37 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,99 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,53 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,DPW,30 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,86 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,DPW,74 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,DPW,40 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,74 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,90 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,65 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,78 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,1856 28th Ave,Sidewalk: Curb side : Yard
+2018-11-01 00:00:00 UTC,4,Arbutus 'Marina' :: Hybrid Strawberry Tree,DPW,10 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,61 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,87 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,59 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,DPW,24 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,29 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,63 Niagara Ave,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Callistemon viminalis :: Weeping Bottlebrush,Private,2655 Polk St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Callistemon viminalis :: Weeping Bottlebrush,Private,300x Howth St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Elaeocarpus decipiens :: Japanese Blueberry Tree,Private,724 Francisco St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Ginkgo biloba 'Autumn Gold' :: Ginkgo: Autumn Gold,Private,2512 Polk St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Ginkgo biloba 'Autumn Gold' :: Ginkgo: Autumn Gold,Private,2113 Jones St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Platanus x hispanica 'Yarwood' :: Yarwood Sycamore,Private,1406 California St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Platanus x hispanica 'Yarwood' :: Yarwood Sycamore,Private,4620 California St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Olea europaea 'Wilsonii' :: Wilson Olive Semi-fruitless,Private,2325 Larkin St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Olea europaea 'Wilsonii' :: Wilson Olive Semi-fruitless,Private,2115 Larkin St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Olea europaea 'Wilsonii' :: Wilson Olive Semi-fruitless,Private,1386 Green St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Olea europaea 'Wilsonii' :: Wilson Olive Semi-fruitless,Private,1381 Filbert St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,Private,1863 Hyde St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,2,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,Private,1381 Filbert St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,3,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,Fire Dept,250X Pixley St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,Private,38 Fountain St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Platanus x hispanica 'Columbia' :: Columbia Hybrid Plane Tree,Private,1455 Market St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,1,Lyonothamnus floribundus subsp. asplenifolius :: Santa Cruz Ironwood,Private,2515 Polk St,Sidewalk: Curb side : Cutout
+2018-11-01 00:00:00 UTC,2,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',Private,27 Waverly Pl,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,2,Tree(s) ::,Private,2 Garfield St,Side Yard : Yard
+2018-09-01 00:00:00 UTC,1,Tree(s) ::,Private,655 Sunnydale Ave,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Tree(s) ::,Private,1822 15th St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Tree(s) ::,Private,1787 Alabama St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Tree(s) ::,Private,157 Prospect Ave,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Olea Majestic Beauty ::,Private,2622 19th St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Magnolia spp :: Magnolia,Private,356 Willard North St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Maytenus boaria :: Mayten,Private,810 Eddy St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,2,Quercus suber :: Cork Oak,Private,3686 20th St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Olea europaea :: Olive Tree,Private,45 Homestead St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,4,Quercus robur :: English Oak,Private,1450 17th St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Juniperus chinensis :: Juniper,Private,2800 Fillmore St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Prunus cerasifera :: Cherry Plum,Private,3521 Sacramento St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Prunus cerasifera :: Cherry Plum,Private,1857 McAllister St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,2,Pyrus kawakamii :: Evergreen Pear,Private,75 Arkansas St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,14,Melaleuca quinquenervia :: Cajeput,Private,1650 Owen St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,9,Melaleuca quinquenervia :: Cajeput,Private,1700 Owen St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,2,Prunus blireiana :: Flowering Plum,Private,1508 Baker St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Eriobotrya deflexa :: Bronze Loquat,Private,551 Central Ave,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Syagrus romanzoffianum :: Queen Palm,Private,412 Hearst Ave,Sidewalk: Property side : Yard
+2018-09-01 00:00:00 UTC,1,Lagunaria patersonii :: Primrose Tree,Private,439 43rd Ave,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Lophostemon confertus :: Brisbane Box,DPW,1425X Innes Ave,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Lophostemon confertus :: Brisbane Box,DPW,1954 Alemany Blvd,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,472 Oak St,:
+2018-09-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,1935 34th Ave,Sidewalk: Property side : Cutout
+2018-09-01 00:00:00 UTC,1,Pittosporum undulatum :: Victorian Box,Private,50 Walnut St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Pittosporum undulatum :: Victorian Box,Private,2308 Filbert St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Magnolia grandiflora :: Southern Magnolia,Private,4540 19th St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,44 Woodward St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,503 Anderson St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,DPW,2439 Cabrillo St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,4068 Cesar Chavez St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Callistemon viminalis :: Weeping Bottlebrush,Private,4740 Balboa St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,4,Olea europaea 'Fruitless' :: Fruitless Olive,Private,1598 Bay St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,4,Olea europaea 'Fruitless' :: Fruitless Olive,Private,3600 Buchanan St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,3,Platanus x hispanica :: Sycamore: London Plane,Private,851 Minnesota St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,1,Magnolia grandiflora 'Russet' :: Russet Magnolia,Private,1225 Dolores St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,3,Magnolia grandiflora 'Samuel Sommer' :: Samuel Sommer Magnolia,Private,595 Mariposa St,Sidewalk: Curb side : Cutout
+2018-09-01 00:00:00 UTC,5,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',Private,1404 Mission St,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Tree(s) ::,Private,150 Yerba Buena Ave,Sidewalk: Curb side : Yard
+2018-12-01 00:00:00 UTC,1,Tree(s) ::,Private,5827 Diamond Heights Blvd,Front Yard : Yard
+2018-12-01 00:00:00 UTC,1,Tree(s) ::,Private,243 Vicente St,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Tree(s) ::,Private,2995 Harrison St,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,2,Olea europaea :: Olive Tree,Private,2828 Webster St,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Olea europaea :: Olive Tree,Private,1806 Noriega St,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Acer buergeranum :: Trident Maple,Private,2850 25th St,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Jacaranda mimosifolia :: Jacaranda,Private,509 Holyoke St,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Melaleuca quinquenervia :: Cajeput,Private,1286 Church St,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Melaleuca quinquenervia :: Cajeput,Private,2x Guerrero St,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Quercus agrifolia :: Coast Live Oak,Private,965 Powhattan Ave,Side Yard : Yard
+2018-12-01 00:00:00 UTC,1,Lagunaria patersonii :: Primrose Tree,Private,2051 34th Ave,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,6,Tristaniopsis laurina :: Swamp Myrtle,Private,2051 34th Ave,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,432 Kirkham St,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,1054 DIVISADERO ST,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Betula pendula :: European White Birch,Private,256 Richland Ave,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,2,Rhamnus alaternus :: Italian Buckthorn,Private,1178 Alemany Blvd,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Rhamnus alaternus :: Italian Buckthorn,Private,121 Cayuga Ave,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Cupaniopsis anacardioides :: Carrotwood,Private,2762 23rd St,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,6,Callistemon citrinus :: Lemon Bottlebrush,Private,955 Bryant St,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Magnolia grandiflora :: Southern Magnolia,Private,1025 Powhattan Ave,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Magnolia grandiflora :: Southern Magnolia,Private,965 Powhattan Ave,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,2,Magnolia grandiflora :: Southern Magnolia,Private,985 Powhattan Ave,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,2,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,3075 25th Ave,Sidewalk: Property side : Yard
+2018-12-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,1527 37th Ave,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Olea europaea 'Fruitless' :: Fruitless Olive,Private,244 Ashton Ave,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Olea europaea 'Fruitless' :: Fruitless Olive,Private,470 33rd Ave,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,DPW,1508 Alemany Blvd,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,1,Eucalyptus nicholii :: Nichol's Willow-Leafed Peppermint,DPW,500X Lake St,Sidewalk: Curb side : Cutout
+2018-12-01 00:00:00 UTC,2,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,Private,121 Lake St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Tree(s) ::,Private,624 London St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Tree(s) ::,Private,281 Rose St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Tree(s) ::,Private,224 Brazil Ave,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Tree(s) ::,Private,552 Arkansas St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Fraxinus spp :: Ash Spp,Private,250 10th St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Acer rubrum :: Red Maple,DPW,2775 Pine St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Crateagus spp :: Hawthorn,Private,299 Rose St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Ulmus parvifolia :: Chinese Elm,Private,251 Laguna St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Podocarpus gracilor :: Fern Pine,Private,218 Congdon St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Prunus cerasifera :: Cherry Plum,Private,260 10th St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,2,Prunus cerasifera :: Cherry Plum,Private,130x Shipley St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Prunus cerasifera :: Cherry Plum,Private,230 10th St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Prunus cerasifera :: Cherry Plum,DPW,260 10th St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Ligustrum lucidum :: Glossy Privet,Private,164 Ocean Ave,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Cercis canadensis :: Eastern Redbud,DPW,978 Guerrero St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Cordyline australis :: Dracena Palm,Private,4023 Pacheco St,Sidewalk: Property side : Cutout
+2018-10-01 00:00:00 UTC,1,Eriobotrya deflexa :: Bronze Loquat,DPW,2 Cabrillo St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Agonis flexuosa :: Peppermint Willow,Private,90 Leese St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Lophostemon confertus :: Brisbane Box,Private,200 Van Ness Ave,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Lophostemon confertus :: Brisbane Box,Private,190x Storrie St,Sidewalk: Property side : Yard
+2018-10-01 00:00:00 UTC,2,Prunus serrulata :: Ornamental Cherry,Private,260 Rose St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,2,Tristaniopsis laurina :: Swamp Myrtle,Private,25 Farragut Ave,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,301x Congdon St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,DPW,2588 San Jose Ave,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,5330 Mission St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,2799X San Jose Ave,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,610 Cortland Ave,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,DPW,2229 San Jose Ave,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Tristaniopsis laurina :: Swamp Myrtle,Private,307 Detroit St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Acacia melanoxylon :: Blackwood Acacia,Private,1700 North Point St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,2,Pittosporum undulatum :: Victorian Box,Private,280 Diamond St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Melaleuca ericifolia :: Heath Melaleuca,DPW,49 Ocean Ave,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Eucalyptus camaldulensis :: River Red Gum,Private,250 10th St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Magnolia grandiflora :: Southern Magnolia,Private,2518 Buchanan St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,1483 29th Ave,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Arbutus 'Marina' :: Hybrid Strawberry Tree,Private,2799X San Jose Ave,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Callistemon viminalis :: Weeping Bottlebrush,Private,4650 Mission St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,2,Platanus x hispanica :: Sycamore: London Plane,Private,200X Van Ness Ave,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,Private,250 10th St,Sidewalk: Curb side : Cutout
+2018-10-01 00:00:00 UTC,1,Magnolia grandiflora 'D.D. Blanchard' :: D.D. Blanchard Southern Magnolia,Private,456 Lisbon St,Sidewalk: Curb side : Cutout
